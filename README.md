@@ -1,4 +1,6 @@
-<h1 align="center">Abubakr Shokhojaev</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Shokhojaev%20Abubakr&fontSize=42&fontAlignY=35&desc=Fullstack%20Developer%20in%20Progress&descAlignY=55" />
+</p>
 
 <p align="center">
   Full-Stack Developer & AI Enthusiast • Shaping Intelligent Systems<br/>
