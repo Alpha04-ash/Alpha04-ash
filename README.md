@@ -7,7 +7,11 @@
 </p>
 
 <p align="center">
-  <code>JavaScript</code> <code>TypeScript</code> <code>React</code> <code>Next.js</code> <code>AI Integration</code>
+  <code>JavaScript</code>
+  <code>TypeScript</code>
+  <code>React</code>
+  <code>Next.js</code>
+  <code>AI Integration</code>
 </p>
 
 <p align="center">
@@ -50,6 +54,9 @@ Focused on building **maintainable, scalable, and production-ready systems** wit
 - Advanced JavaScript & TypeScript engineering
 - React & Next.js application architecture
 - AI integration and automation workflows
+- Relational database design (PostgreSQL)
+- Component-driven UI systems (MUI, Ant Design)
+- Utility-first & preprocessed styling (Tailwind CSS, Sass)
 - Scalable, maintainable codebases
 - System design fundamentals
 
@@ -65,29 +72,42 @@ Focused on building **maintainable, scalable, and production-ready systems** wit
   <img src="https://img.shields.io/badge/C++-1F4FD8?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
-### Frontend
+### Frontend & UI
 <p>
   <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%20Query-EF4444?style=for-the-badge&logo=reactquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-4C1D95?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-0F766E?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-1E293B?style=for-the-badge&logo=sass&logoColor=CC6699"/>
+  <img src="https://img.shields.io/badge/MUI-0B1120?style=for-the-badge&logo=mui&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/Ant%20Design-0F172A?style=for-the-badge&logo=antdesign&logoColor=EF4444"/>
 </p>
 
-### Backend & APIs
+### Backend, APIs & Databases
 <p>
   <img src="https://img.shields.io/badge/Django-0F3D2E?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-059669?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-020617?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=38BDF8"/>
 </p>
 
-### UI, DevOps & Tooling
+### DevOps & Tooling
 <p>
-  <img src="https://img.shields.io/badge/TailwindCSS-0F766E?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-334155?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
+
+### Operating Systems
+<p>
+  <img src="https://img.shields.io/badge/Windows-0F172A?style=for-the-badge&logo=windows&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/macOS-020617?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FACC15"/>
+  <img src="https://img.shields.io/badge/Ubuntu-1F2933?style=for-the-badge&logo=ubuntu&logoColor=F97316"/>
+</p>
+
 
 ---
 
@@ -95,10 +115,10 @@ Focused on building **maintainable, scalable, and production-ready systems** wit
 
 ### 🧠 SoftClub-AI
 AI-focused platform exploring intelligent assistants, automation pipelines, and applied machine learning.  
-**Focus:** architecture, experimentation, scalability.
+**Focus:** system architecture, experimentation, scalability.
 
 ### 📷 Kavsar Camera
-Computer vision system with emphasis on **real-time processing**, performance optimization, and intuitive UX.
+Computer vision system emphasizing **real-time processing**, performance optimization, and intuitive UX.
 
 ### 🎓 IELTS Mock Test Checker
 Educational platform delivering structured IELTS evaluations, analytics, and actionable feedback.
@@ -110,17 +130,17 @@ Educational platform delivering structured IELTS evaluations, analytics, and act
 ## 🌍 Languages
 
 | Language | Level |
-|--------|-------|
+|---------|-------|
 | English | C1 — Advanced Professional |
 | Russian | Fluent |
-| Tajik | Native |
+| Tajik  | Native |
 | Spanish | Basic |
 
 ---
 
 ## 📜 Engineering Philosophy
 
-> Software engineering is the practice of transforming complexity into clarity.  
+> Software engineering is the discipline of transforming complexity into clarity.  
 > Long-term systems are built with intention, precision, and architectural discipline.
 
 <p align="center">
