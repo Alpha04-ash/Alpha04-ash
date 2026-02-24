@@ -7,6 +7,8 @@
 </p>
 
 <p align="center">
+  <code>Middle Frontend Developer</code>
+  <code>Middle UX/UI Designer</code>
   <code>JavaScript</code>
   <code>TypeScript</code>
   <code>React</code>
@@ -31,11 +33,12 @@
 
 ## 👨‍💻 Professional Summary
 
-Full-stack developer specializing in **modern web applications, clean architecture, and applied AI**.  
-Focused on building **maintainable, scalable, and production-ready systems** with attention to performance, clarity, and long-term growth.
+Full-stack developer with **Middle Frontend** and **UX/UI design** skills specializing in **modern web applications, clean architecture, and applied AI**.  
+Focused on building **maintainable, scalable, production-ready systems** while designing **intuitive, user-friendly interfaces**.
 
 - Strong system-thinking mindset  
 - Comfortable across frontend, backend, and automation layers  
+- Experienced in UX/UI design tools and prototyping  
 - Cross-platform workflow: macOS, Linux, Windows
 
 ---
@@ -44,6 +47,7 @@ Focused on building **maintainable, scalable, and production-ready systems** wit
 
 - AI-powered applications and intelligent automation  
 - Full-stack systems with clean, modular architecture  
+- UX/UI design and prototyping using Figma, Adobe XD, and Canva  
 - Telegram bots with real-world utility  
 - Cross-platform development using Flutter
 
@@ -51,9 +55,9 @@ Focused on building **maintainable, scalable, and production-ready systems** wit
 
 ## 🧠 Core Competencies
 
+- Middle Frontend Development (React, Next.js, TypeScript)  
+- Middle UX/UI Design (Wireframing, Prototyping, User Flows)  
 - Full-stack development (Frontend / Backend / APIs)  
-- Advanced JavaScript & TypeScript engineering  
-- React & Next.js application architecture  
 - AI integration and automation workflows  
 - Machine Learning (ML) fundamentals & applied systems  
 - Relational database design (PostgreSQL)  
@@ -86,6 +90,9 @@ Focused on building **maintainable, scalable, and production-ready systems** wit
   <img src="https://img.shields.io/badge/Sass-1E293B?style=for-the-badge&logo=sass&logoColor=CC6699"/>
   <img src="https://img.shields.io/badge/MUI-0B1120?style=for-the-badge&logo=mui&logoColor=38BDF8"/>
   <img src="https://img.shields.io/badge/Ant%20Design-0F172A?style=for-the-badge&logo=antdesign&logoColor=EF4444"/>
+  <img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ### Backend, APIs & Databases
