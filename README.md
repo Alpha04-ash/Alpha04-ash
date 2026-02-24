@@ -12,6 +12,7 @@
   <code>React</code>
   <code>Next.js</code>
   <code>AI Integration</code>
+  <code>Machine Learning</code>
 </p>
 
 <p align="center">
@@ -35,7 +36,7 @@ Focused on building **maintainable, scalable, and production-ready systems** wit
 
 - Strong system-thinking mindset  
 - Comfortable across frontend, backend, and automation layers  
-- Cross-platform workflow: macOS, Linux, Windows  
+- Cross-platform workflow: macOS, Linux, Windows
 
 ---
 
@@ -44,20 +45,23 @@ Focused on building **maintainable, scalable, and production-ready systems** wit
 - AI-powered applications and intelligent automation  
 - Full-stack systems with clean, modular architecture  
 - Telegram bots with real-world utility  
-- Cross-platform development using Flutter  
+- Cross-platform development using Flutter
 
 ---
 
 ## 🧠 Core Competencies
 
-- Full-stack development (Frontend / Backend / APIs)
-- Advanced JavaScript & TypeScript engineering
-- React & Next.js application architecture
-- AI integration and automation workflows
-- Relational database design (PostgreSQL)
-- Component-driven UI systems (MUI, Ant Design)
-- Utility-first & preprocessed styling (Tailwind CSS, Sass)
-- Scalable, maintainable codebases
+- Full-stack development (Frontend / Backend / APIs)  
+- Advanced JavaScript & TypeScript engineering  
+- React & Next.js application architecture  
+- AI integration and automation workflows  
+- Machine Learning (ML) fundamentals & applied systems  
+- Relational database design (PostgreSQL)  
+- Cloud database systems (Supabase)  
+- In-memory caching & performance optimization (Redis)  
+- Component-driven UI systems (MUI, Ant Design)  
+- Utility-first & preprocessed styling (Tailwind CSS, Sass)  
+- Scalable, maintainable codebases  
 - System design fundamentals
 
 ---
@@ -91,6 +95,8 @@ Focused on building **maintainable, scalable, and production-ready systems** wit
   <img src="https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-020617?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+  <img src="https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=DC2626"/>
 </p>
 
 ### DevOps & Tooling
@@ -108,20 +114,28 @@ Focused on building **maintainable, scalable, and production-ready systems** wit
   <img src="https://img.shields.io/badge/Ubuntu-1F2933?style=for-the-badge&logo=ubuntu&logoColor=F97316"/>
 </p>
 
-
 ---
 
 ## 📂 Selected Projects
 
-### 🧠 SoftClub-AI
-AI-focused platform exploring intelligent assistants, automation pipelines, and applied machine learning.  
-**Focus:** system architecture, experimentation, scalability.
+### 🤖 LORA
+Custom-built AI system focused on intelligent assistants, structured reasoning workflows, and modular AI orchestration pipelines. Designed for experimentation, automation, and scalable ML-backed integration.
+
+**Focus:** system architecture, AI reasoning chains, backend AI services, and applied ML scalability.
+
+---
 
 ### 📷 Kavsar Camera
 Computer vision system emphasizing **real-time processing**, performance optimization, and intuitive UX.
 
-### 🎓 IELTS Mock Test Checker
-Educational platform delivering structured IELTS evaluations, analytics, and actionable feedback.
+---
+
+### 🚀 PrepMind AI
+🔗 https://prepmindai.academy
+
+AI-powered exam preparation SaaS platform serving **2,400+ active users**. Built with scalable authentication, subscription management, analytics dashboards, and AI-assisted evaluation systems.
+
+**Focus:** full product architecture, system design, AI evaluation modules, performance optimization, and production deployment.
 
 > Additional repositories include AI experiments, full-stack demos, and research-oriented side projects.
 
@@ -133,7 +147,7 @@ Educational platform delivering structured IELTS evaluations, analytics, and act
 |---------|-------|
 | English | C1 — Advanced Professional |
 | Russian | Fluent |
-| Tajik  | Native |
+| Tajik   | Native |
 | Spanish | Basic |
 
 ---
