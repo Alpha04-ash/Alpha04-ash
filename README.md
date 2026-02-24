@@ -12,7 +12,10 @@
   <code>JavaScript</code>
   <code>TypeScript</code>
   <code>React</code>
+  <code>React Native</code>
   <code>Next.js</code>
+  <code>Node.js</code>
+  <code>NestJS</code>
   <code>AI Integration</code>
   <code>Machine Learning</code>
 </p>
@@ -55,7 +58,7 @@ Focused on building **maintainable, scalable, production-ready systems** while d
 
 ## 🧠 Core Competencies
 
-- Middle Frontend Development (React, Next.js, TypeScript)  
+- Middle Frontend Development (React, React Native, Next.js, TypeScript)  
 - Middle UX/UI Design (Wireframing, Prototyping, User Flows)  
 - Full-stack development (Frontend / Backend / APIs)  
 - AI integration and automation workflows  
@@ -83,6 +86,7 @@ Focused on building **maintainable, scalable, production-ready systems** while d
 ### Frontend & UI
 <p>
   <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%20Query-EF4444?style=for-the-badge&logo=reactquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-4C1D95?style=for-the-badge&logo=redux&logoColor=white"/>
@@ -97,9 +101,10 @@ Focused on building **maintainable, scalable, production-ready systems** while d
 
 ### Backend, APIs & Databases
 <p>
+  <img src="https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-0F3D2E?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-059669?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-020617?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=38BDF8"/>
   <img src="https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
